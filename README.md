@@ -16,8 +16,8 @@ Method | URL | Function
 
 ```
   {
-    _id: "ID", `ID, default`
-    name: "Task Content", `String`
-    completed: true/false, `Boolean`
+    _id: "ID, default",
+    name: "Task Content, String",
+    completed: true/false, Boolean,
   }
 ```
