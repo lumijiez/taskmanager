@@ -2,6 +2,12 @@
 
 #### Tiny To-Do-List-type task manager created using basic HTML/CSS/JS on the front side, and Node.js, paired with Express.js and MongoDB on the backend.
 
+##### Features:
+1. Task creation
+2. Task deletion
+3. Editing/patching
+4. Saving information to the database
+
 ##### To setup, run `npm install` and create the `.env` file, filling up the `MONGO_URI` and `SERVER_PORT` fields.
 
 ##### Run it using the `npm start` for production, and `npm run dev` for the development environment, supported by Nodemon.
