@@ -20,6 +20,6 @@ Method | URL | Function
   {
     _id: "ID, default",
     name: "Task Content, String",
-    completed: true/false, Boolean,
+    completed: true/false, Boolean
   }
 ```
