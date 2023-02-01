@@ -11,3 +11,13 @@ Method | URL | Function
 | `POST:` | `/api/v1/tasks` | Creates a new task 
 | `PATCH:` | `/api/v1/tasks/:ID` | Updates a specific task on the server 
 | `DELETE:` | `/api/v1/tasks/:ID` | Deleted a specific task 
+
+#### The MongoDB Schema is as follows:
+
+```json
+  {
+    _id: "ID", `ID, default`
+    name: "Task Content", `String`
+    completed: true/false, `Boolean`
+  }
+```
