@@ -14,7 +14,7 @@ Method | URL | Function
 
 #### The MongoDB Schema is as follows:
 
-```json
+```
   {
     _id: "ID", `ID, default`
     name: "Task Content", `String`
