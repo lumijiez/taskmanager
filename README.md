@@ -4,6 +4,8 @@
 
 ##### To setup, run `npm install` and create the `.env` file, filling up the `MONGO_URI` and `SERVER_PORT` fields.
 
+##### Run it using the `npm start` for production, and `npm run dev` for the development environment, supported by Nodemon.
+
 ---
 
 #### It does the following API calls:
